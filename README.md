@@ -1,7 +1,7 @@
 # Estimating-DALYs-based-on-HAQ
 
 ### Credits: 
-This project wouldn't have been possible without the guidance and support of my research advisor Prof. Marcia Weaver.
+This reseach project was completed under the guidance and support of my research advisor Prof. Marcia Weaver.
 
 The project builds on top of the code of my IHME (Institute for Health Metrics and Evaluation) colleagues: Vishnu Nandakumar, Kate  Rosettie and Jamal Yearwood. 
 
