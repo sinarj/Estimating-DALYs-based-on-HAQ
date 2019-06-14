@@ -1,5 +1,10 @@
 # Estimating-DALYs-based-on-HAQ
 
+### Credits: 
+This project wouldn't have been possible without the guidance and support of my research advisor Prof. Marcia Weaver.
+
+The project builds on top of the code of my IHME (Institute for Health Metrics and Evaluation) colleagues: Vishnu Nandakumar, Kate  Rosettie and Jamal Yearwood. 
+
 ## Exploratory Data Analysis (in the folder “pre_analysis”)
 
 •	 “DALY_regression_with_Visualizations”: This notebook runs the regressions using the Data Rich locations and produces a number of interesting visualizations
